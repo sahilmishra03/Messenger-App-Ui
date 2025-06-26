@@ -29,7 +29,7 @@ lib/
 
 ### iOS UI
 
-![iOS Screenshot](assets/screenshots/Ios.png)
+![iOS Screenshot](assets/screenshots/IOS.png)
 
 > To take a good screenshot:
 > - Run the app on an emulator or real device
