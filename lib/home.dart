@@ -186,9 +186,9 @@ class Home extends StatelessWidget {
         selectedItemColor: Colors.black,
         unselectedItemColor: Colors.black54,
         items: const [
-          Bottom(icon: Icon(Icons.chat), label: 'Chats'),
-          Bottom(icon: Icon(Icons.people), label: 'People'),
-          Bottom(
+          BottomNavigationBarItem(icon: Icon(Icons.chat), label: 'Chats'),
+          BottomNavigationBarItem(icon: Icon(Icons.people), label: 'People'),
+          BottomNavigationBarItem(
             icon: Icon(Icons.navigation),
             label: 'Navigate',
           ),
